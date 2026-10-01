@@ -1,4 +1,4 @@
-# React Assessment – Shelf (mini shop)
+# React Assessment – Dokan 
 
 A React Project that shows products like online stores.
 
